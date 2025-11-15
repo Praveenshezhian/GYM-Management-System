@@ -11,11 +11,6 @@ To execute the below project, you will need the following requirements:
 - [Java](https://www.oracle.com/java/technologies/downloads/)
 - [NetBeans IDE](https://netbeans.apache.org/)
 ## Screenshots
-### Log In 
-- The user will be an admin by default, and the username and password will be {admin, admin}
-
-![Login Page](https://github.com/quachthientai/Gym-Management-System/blob/master/screenshots/login.png)
-
 ### Homepage
 - The admin menu as below, consists of Add Member, Manage Member, Trainers, Members List, Payments, and Log out
 
